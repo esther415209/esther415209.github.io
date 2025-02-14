@@ -1,3 +1,4 @@
+
 $(function () {
   // initialize canvas and context when able to
   canvas = document.getElementById("canvas");
